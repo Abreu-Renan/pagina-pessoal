@@ -119,6 +119,6 @@ body {
     top: 253px;
     position: absolute;
     border: 8px solid var(--cor-terciaria);
-border-radius: 16px;
+    border-radius: 16px;
 
 }
