@@ -118,5 +118,7 @@ body {
     left: 1032px;
     top: 253px;
     position: absolute;
+    border: 8px solid var(--cor-terciaria);
+border-radius: 16px;
 
 }
