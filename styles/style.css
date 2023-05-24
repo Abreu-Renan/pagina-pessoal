@@ -131,7 +131,7 @@ body {
     .cabecalho__menu{
         justify-content: center;
     }
-    .apresentacao{
+    .apresentacao, .foto{
         flex-direction: column-reverse;
         padding: 5%;
     }
